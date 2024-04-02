@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">cooking</string>
+    <string name="start">Start</string>
+    <string name="head">Recipes</string>
+    <string name="eggs">" Scramble"</string>
+
+    <string name="recipe2">Fried oatmeal with egg</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="descr2">" You will need a good frying pan with a non-stick coating; it needs to be heated over low heat.
+        \n1. Pour oatmeal into a DRY frying pan (flakes that indicate a cooking time of 5-7 minutes on the packaging are best).
+        \n2. Stirring occasionally, fry the cereal for three minutes. No need to add oil or water.
+        \n3. When you feel a pleasant nutty aroma and see that the oatmeal has begun to brown slightly, you can add the egg.
+        \n4. At this stage, you need to mix the cereal with the egg very vigorously with a wooden spatula so that it is evenly distributed throughout the pan.
+        \n5. Next, you need to close the pan with a lid, hold for 1 minute on minimum heat, then turn off the heat and hold for another 1 minute so that the oatmeal becomes softer. Breakfast of oatmeal with eggs is ready!"</string>
+    <string name="descr3">You will need a good frying pan with a non-stick coating; it needs to be heated over low heat.
+        \n1. Melt lard, cut into small cubes, in a saucepan. Add meat, cut into small pieces. Fry until golden brown.
+        \n2.Then add carrots, cut into slices. Fry for 5 minutes.
+        \n3.Onion, cut into half rings. Fry for 5 minutes.
+        \n4.Bell pepper, cut into slices. 5 more minutes.
+        \n5.Add coarsely chopped potatoes, a piece of butter, 200 ml of water, spices, dried parsley and salt. Do not stir. Cover with a lid, reduce heat and simmer over low heat for 40 minutes.
+        \n6.At the end of cooking, add chopped fresh herbs and chopped garlic. Stir and remove from heat.</string>
+    <string name="descr4">1. Prepare all the necessary ingredients. You will need more or less sausages depending on their length and thickness.
+       \n 2. Sift flour into kefir, add salt and soda.
+        \n3.Knead the dough.
+        \n4. Sprinkle the table with flour and lay out the dough, knead it well. Cover the dough with a towel and leave for 15 minutes.
+        \n5. Peel the sausages from the film.
+        \n6.Roll out the dough into a rectangle 3 mm thick and cut it into 8 strips.
+        \n7.Wrap each sausage with an overlapping strip of dough.
+        \n8.Heat vegetable oil in a frying pan. Place the sausages in the batter onto the frying pan.
+        \n9.Fry the sausages in the dough over medium heat until golden brown on all sides. This will take approximately 10 minutes.
+        \n10.If desired, the finished sausages in the dough can be blotted a little with a paper towel to excess oil has been absorbed.</string>
+    <string name="descr5">1. Prepare all the ingredients for the chicken and mushroom julienne recipe.
+        \n2.Cut the chicken fillet into small pieces.
+        \n3.Fry the chicken in vegetable oil for a few minutes until half cooked. Finely chop the onion, add to the chicken and fry the chicken fillet with onions for another 3-4 minutes.
+       \n 4. Coarsely chop the champignons and add to the pan. After the moisture from the mushrooms has evaporated, add salt and pepper and cook the chicken with onions and mushrooms for another 5-7 minutes, until golden brown.
+        \n5. Pour cream over the meat and mushrooms, warm everything together a little.
+        \n6. Grate the cheese on a coarse grater and place on top. Turn off the heat and cover the pan with a lid.
+        \n7. When the cheese has melted after 3-5 minutes, the julienne with mushrooms and chicken can be served.
+        \n8.If your frying pan allows it, garnish the chicken julienne with basil leaves and serve directly in this dish.</string>
+    <string name="descr1">Standard serving: 2 eggs per person.
+        \n1. Mix the eggs thoroughly with a fork. Lush foam is not needed here; the main thing is to mix the yolks and whites very well to obtain a homogeneous mixture.
+        \n2. Melt the butter over low heat and pour in the egg mixture. Wait a few seconds for the mixture to set slightly, and then begin to gently move the mixture with a spatula, as if drawing a figure eight (see the video version of the recipe for more details).          Always cook the dish on low heat, adding salt only at the end of cooking and turning off the heat a few seconds before the egg mixture is completely cooked.
+        \n3. Turn off the heat, add salt to taste and leave the eggs in the cooling pan for a few more seconds. Under the influence of the residual heat of the frying pan, the egg mixture will reach readiness, while it will not overcook and will retain its natural juiciness</string>
+    <string name="minute">minute</string>
+    <string name="products">" Ingredients"</string>
+    <string name="recipe3">Country style roast</string>
+    <string name="recipe4">" Julienne with chicken and mushrooms"</string>
+    <string name="recipe5">Sausages in dough (in a frying pan)</string>
+    <string name="settings">Settings</string>
+    <string name="changelang">Language selection</string>
+    <string name="ru">Russian</string>
+    <string name="eng">English</string>
+    <string name="ch">China</string>
+    <string name="composition">Chicken egg – 4 pcs.
+        \nButter – 1-2 tbsp.
+        \nSour cream – 1 tbsp. (optional)
+        \nGreen onions – 2-3 stalks
+        \nSalt - to taste</string>
+    <string name="composition1">Oat flakes – 50 g.
+        \nChicken egg – 1 pc.
+        \nFruits - optional
+        \nHoney - optional</string>
+    <string name="composition2">Pork loin without bone - 1 kg
+        \nFresh pork lard - 50 g
+        \nButter - 50 g
+        \nPotatoes - 1 kg
+        \nBell pepper - 1 pc.
+        \nCarrots - 2 pcs.
+        \nOnions - 2 pcs.
+       \n Garlic - 2 cloves
+       \n Fresh parsley - to taste
+        \nDried parsley - to taste
+       \n Spices for meat - to taste</string>
+    <string name="composition3">Sausages - 8 pcs.
+        \nWheat flour - 160 g + for dusting
+        \nKefir - 25 ml
+        \nSoda - 1/4 teaspoon
+        \nSalt - 1/4 teaspoon
+        \nVegetable oil (for frying) - 2-3 tbsp. spoons</string>
+    <string name="composition4">Chicken fillet - 400 g
+        \nChampignon mushrooms - 300 g
+        \nOnion - 100 g
+        \nCream 20-30% - 200 ml
+        \nHard cheese - 150 g
+        \nVegetable oil - 2 tbsp. spoons
+        \nSalt - to taste
+        \nGround black pepper - to taste</string>
+    <string name="process">Cooking process</string>
+    <string name="eat1">One of the most popular dishes served for breakfast in European hotels. Scrambled eggs, but cooked in a special way that gives this dish a very delicate texture. It\'s easy and quick to prepare.</string>
+    <string name="eat2">For this recipe you need to take oatmeal and a large egg. All! No vegetable oil, butter, water, milk, etc. There is no need to cook anything. If you want to diversify the taste, add berries or fruits, or pour honey or jam over the oatmeal.</string>
+    <string name="eat3">A simple, but very aromatic and tasty dish for a family lunch or dinner.</string>
+    <string name="eat4">Prepare these juicy and tasty sausages in crispy dough in a regular frying pan on your weekend morning.</string>
+    <string name="eat5">A very popular appetizer - julienne (or more precisely, julienne) with chicken and mushrooms, can be prepared in a frying pan in about half an hour, without bothering yourself at all by purchasing cocotte makers and finishing the dish in the oven.</string>
+    <string name="end">Stop</string>
+
+</resources>
